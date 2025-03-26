@@ -475,6 +475,7 @@ img {
   display: inline-block;
   vertical-align: top;
   border-style: none;
+  height: auto;
 }
 
 a {
